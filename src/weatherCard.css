@@ -10,7 +10,7 @@
     padding: 2.5rem;
     border-radius: 1.2rem;
     background: rgba(0,0,0,0.1);
-    scale: 0.8;
+    
 
 }
 .Card__container:hover
@@ -57,7 +57,7 @@
 
 .Card__head h3
 {
-    font-size: 1.8rem;
+    font-size: 2rem;
     letter-spacing: 0.2rem;
 
 color: white;
@@ -138,7 +138,7 @@ font-weight: 600;
     scale: 0.7;
     
     height: 90%;
-    background-color: red;
+   
 }
 
 
